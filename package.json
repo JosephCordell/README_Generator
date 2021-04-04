@@ -1,0 +1,29 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Packages required for README Generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephCordell/README_Generator.git"
+  },
+  "keywords": [
+    "READ",
+    "ME",
+    "Generator",
+    "README"
+  ],
+  "author": "Joseph Cordell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephCordell/README_Generator/issues"
+  },
+  "homepage": "https://github.com/JosephCordell/README_Generator#readme"
+}
