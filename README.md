@@ -29,7 +29,7 @@ npm install
 node index.js
 ```
 2. Provide answers for the prompted questions
-![gif of program](https://i.imgur.com/NhAXJVI.gifv)
+![gif of program](./assets/images/README.gif)
 
 3.  A README.md file will be populated in the project file ready for use
 
