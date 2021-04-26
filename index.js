@@ -73,7 +73,7 @@ const generateReadME = (data) => {
     // console.log(generateMarkdown.readme)
 
     fs.writeFileSync('README.md', generateMarkdown.readme)
-
+    console.log("README Generated!")
 }
 
 

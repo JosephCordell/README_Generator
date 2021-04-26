@@ -14,7 +14,7 @@ ${data.description}
 
 1. [Installation](#1-installation)
 2. [Usage](#2-usage)
-3. [Contributing](#3-contributing)
+3. [Contributors](#3-Contributors)
 4. [License](#4-license)
 5. [Questions](#5-questions)
 
@@ -28,13 +28,13 @@ ${data.usage}
 ## 3 License 
 ${license.summary}
 
-## 4 Contribution
+## 4 Contributors
 ${data.contribution}
 
 ## 5 Questions 
-- [${data.githubName}](${data.githubURL})
+- Github Profile: [${data.githubName}](${data.githubURL})
 - [Send an email to ${data.email}](mailto:${data.email})
-- [File an issue](${data.githubURL}/issues)
+- [File an issue](${data.githubURL}/${data.title}/issues)
 `
     
 }
